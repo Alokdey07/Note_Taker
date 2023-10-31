@@ -75,5 +75,5 @@ If you have any questions or need assistance, please don't hesitate to contact u
 
 Happy note-taking!
 
-![Note Taker](img/note.png)
+![Note Taker]([img/note.png](https://www.google.com/search?q=note+taker+app+logo&tbm=isch&ved=2ahUKEwjuwLCbzJ-CAxUXS2wGHUhhAScQ2-cCegQIABAA&oq=note+taker+app+logo&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQCBAeOgkIABAYEIAEEAo6BwgAEBgQgAQ6BAgAEB5Q3gZY5BBgvhNoAHAAeACAAX6IAdwEkgEDNC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=K5ZAZa7_KZeWseMPyMKFuAI&bih=695&biw=1536&rlz=1C1JJTC_enIN1054IN1054#imgrc=WtXczTivh2E41M)https://www.google.com/search?q=note+taker+app+logo&tbm=isch&ved=2ahUKEwjuwLCbzJ-CAxUXS2wGHUhhAScQ2-cCegQIABAA&oq=note+taker+app+logo&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQCBAeOgkIABAYEIAEEAo6BwgAEBgQgAQ6BAgAEB5Q3gZY5BBgvhNoAHAAeACAAX6IAdwEkgEDNC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=K5ZAZa7_KZeWseMPyMKFuAI&bih=695&biw=1536&rlz=1C1JJTC_enIN1054IN1054#imgrc=WtXczTivh2E41M)
 
